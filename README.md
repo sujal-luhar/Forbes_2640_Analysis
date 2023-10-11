@@ -51,7 +51,3 @@ This analysis provides valuable insights into wealth distribution, geographic tr
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow the standard open-source guidelines, create a pull request, and get in touch with the project maintainers.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for your own projects.

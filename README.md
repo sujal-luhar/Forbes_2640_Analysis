@@ -26,7 +26,8 @@ This analysis provides valuable insights into wealth distribution, geographic tr
 
 - **Forbes_Scraping.ipynb:** Contains the Python code used for scraping billionaire data from Forbes.com.
 - **Forbes.ipynb:** This Jupyter Notebook presents the complete data analysis, showcasing an array of visualizations and insights generated from the dataset.
-- **Bubble_Map_Residence.html:** An interactive HTML bubble map displaying the distribution of billionaires by residence.
+- **Bubble_Map_Residence.html:** An interactive HTML bubble map displaying the distribution of billionaires by residence. Just [click here](https://sujal-luhar.github.io/Forbes_2640_Analysis/bubble_map_residence.html) and you will get to know residence of billionaires.
+
 
 ## Key Highlights
 

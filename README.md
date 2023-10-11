@@ -9,7 +9,6 @@ Welcome to the World Billionaire Analysis project! This project dives deep into 
 - [How to Use](#how-to-use)
 - [Data Sources](#data-sources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
